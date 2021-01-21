@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "english": "an apple",
+      "spanish": "una manzana",
+      "learned": true
+    },
+    {
+      "id": 2,
+      "english": "a work",
+      "spanish": "un trabajo",
+      "learned": false
+    },
+    {
+      "english": "an apple",
+      "spanish": "la manzana",
+      "id": 3
+    }
+  ]
+}
